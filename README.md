@@ -1,5 +1,7 @@
 # SBABC: a set-based artificial bee colony algorithm
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24326043.svg)](https://doi.org/10.5281/zenodo.24326043)
+
 Code, tuned configurations and results for the paper
 
 > R. C. Sarker and J. C. Bansal, *A Generic Set Based Artificial Bee Colony
@@ -37,10 +39,11 @@ All commands run from the repository root.
 The per-run results of every experiment are stored in one SQLite database
 (about 1.8 GB), archived on Zenodo:
 
-> **Database:** DOI to be added
+> **Database:** [doi:10.5281/zenodo.24326069](https://doi.org/10.5281/zenodo.24326069)
+> (`results.sqlite.xz`, 80 MB; `SHA256SUMS.txt` gives the checksums)
 
-Download it, decompress it to `results/results.sqlite` and run the script for
-the table you want. Every script opens the database read-only.
+Download it, decompress it to `results/results.sqlite`
+(`xz -d results.sqlite.xz`) and run the script for the table you want. Every script opens the database read-only.
 
 | Paper | Script |
 |---|---|

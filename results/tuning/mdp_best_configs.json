@@ -1,0 +1,55 @@
+{
+  "SBABC": {
+    "beta1": 0.6596875,
+    "beta2": 1.96875,
+    "beta3": 0.1875,
+    "k": 7,
+    "limit": 102,
+    "candidate_set": "single",
+    "topology": "ring",
+    "neighborhood_radius": 2,
+    "num_food_sources": 25,
+    "distort_operator_version": 5,
+    "scout_bee_phase_version": 1
+  },
+  "SBPSO": {
+    "c1": 0.875,
+    "c2": 0.875,
+    "c3": 0.375,
+    "c4": 1.125,
+    "k": 14,
+    "topology": "ring",
+    "neighborhood_radius": 2,
+    "num_particles": 25
+  },
+  "GBABC": {
+    "limit": 188,
+    "threshold": 3,
+    "topology": "star",
+    "neighborhood_radius": 1,
+    "num_food_sources": 25,
+    "best_parent": "gbest"
+  },
+  "BitABC": {
+    "limit": 227,
+    "r": 0.15,
+    "topology": "von_neumann",
+    "neighborhood_radius": 1,
+    "num_food_sources": 25
+  },
+  "AMABC": {
+    "limit": 109,
+    "topology": "ring",
+    "neighborhood_radius": 2,
+    "num_food_sources": 25
+  },
+  "ABABC": {
+    "credit_alpha": 0.625,
+    "pursuit_beta": 0.625,
+    "p_min": 0.0159375,
+    "reward_window": 20,
+    "reward_type": "average",
+    "num_food_sources": 40,
+    "schedule_iterations": 1250
+  }
+}

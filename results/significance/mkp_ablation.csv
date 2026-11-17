@@ -1,0 +1,210 @@
+instance,reference,other,family,n,feasible_reference,feasible_other,mean_reference,mean_other,p_value,p_holm,significant,better,cliffs_delta,delta_magnitude,ci_low,ci_high
+10.100-00,SBABC_mda_only,SBABC_full,the 19 instances of SBABC_full,30,30,30,22668.9,22563.6,0.0702862,0.632576,0,reference,0.282222,small,11.6625,195.768
+10.250-00,SBABC_mda_only,SBABC_full,the 19 instances of SBABC_full,30,30,30,57277.7,55689.5,1.73331e-06,2.42663e-05,1,reference,0.975556,large,1338.03,1838.67
+10.500-00,SBABC_mda_only,SBABC_full,the 19 instances of SBABC_full,30,30,30,111240,106507,1.86265e-09,3.53903e-08,1,reference,1,large,4321.8,5116.83
+30.100-00,SBABC_mda_only,SBABC_full,the 19 instances of SBABC_full,30,30,30,21493.6,21469.5,0.438796,1,0,reference,0.15,small,-45.2342,90.9675
+30.250-00,SBABC_mda_only,SBABC_full,the 19 instances of SBABC_full,30,30,30,54840.1,53514.5,3.72529e-09,5.58794e-08,1,reference,0.982222,large,1114.53,1540.24
+30.500-00,SBABC_mda_only,SBABC_full,the 19 instances of SBABC_full,30,30,30,109874,105300,1.86265e-09,3.53903e-08,1,reference,1,large,4113.23,5061.81
+5.100-00,SBABC_mda_only,SBABC_full,the 19 instances of SBABC_full,30,30,30,23981.1,23860.2,0.00926731,0.0926731,0,reference,0.446667,medium,44.1325,197.467
+5.250-00,SBABC_mda_only,SBABC_full,the 19 instances of SBABC_full,30,30,30,57703.7,56403.8,1.86265e-09,3.53903e-08,1,reference,0.993333,large,1128.73,1470.84
+5.500-00,SBABC_mda_only,SBABC_full,the 19 instances of SBABC_full,30,30,30,113890,109419,1.86265e-09,3.53903e-08,1,reference,1,large,3935.45,4998.41
+mknap1-2,SBABC_mda_only,SBABC_full,the 19 instances of SBABC_full,30,30,30,8706.1,8706.1,1,1,0,tie,0,negligible,0,0
+mknap1-3,SBABC_mda_only,SBABC_full,the 19 instances of SBABC_full,30,30,30,4015,4015,1,1,0,tie,0,negligible,0,0
+mknap1-4,SBABC_mda_only,SBABC_full,the 19 instances of SBABC_full,30,30,30,6120,6120,1,1,0,tie,0,negligible,0,0
+mknap1-5,SBABC_mda_only,SBABC_full,the 19 instances of SBABC_full,30,30,30,12400,12400,1,1,0,tie,0,negligible,0,0
+mknap1-6,SBABC_mda_only,SBABC_full,the 19 instances of SBABC_full,30,30,30,10610.7,10595.3,0.00149637,0.0164601,1,reference,0.621111,large,8.2,22.7
+mknap1-7,SBABC_mda_only,SBABC_full,the 19 instances of SBABC_full,30,30,30,16523.6,16514.7,0.158275,1,0,reference,0.292222,small,-1.43333,19.2
+mknap2-1,SBABC_mda_only,SBABC_full,the 19 instances of SBABC_full,30,30,30,7770.43,7769.97,0.472212,1,0,reference,0.0366667,negligible,-1.73333,2.7
+mknap2-10,SBABC_mda_only,SBABC_full,the 19 instances of SBABC_full,30,30,30,623210,619075,3.26421e-05,0.000424347,1,reference,0.728889,large,1935.23,7053.6
+mknap2-2,SBABC_mda_only,SBABC_full,the 19 instances of SBABC_full,30,30,30,8716.3,8716.83,0.585771,1,0,other,-0.0533333,negligible,-2.9,1.86667
+mknap2-9,SBABC_mda_only,SBABC_full,the 19 instances of SBABC_full,30,30,30,1.09538e+06,1.09508e+06,0.000450582,0.00540698,1,reference,0.554444,large,85.7992,622.834
+10.100-00,SBABC_mda_only,SBABC_md_only,the 19 instances of SBABC_md_only,30,30,30,22668.9,22311.2,1.02445e-07,1.22935e-06,1,reference,0.855556,large,267.933,449.567
+10.250-00,SBABC_mda_only,SBABC_md_only,the 19 instances of SBABC_md_only,30,30,30,57277.7,56107.3,1.86265e-08,2.6077e-07,1,reference,0.88,large,915.733,1428.47
+10.500-00,SBABC_mda_only,SBABC_md_only,the 19 instances of SBABC_md_only,30,30,30,111240,109857,2.6077e-08,3.39001e-07,1,reference,0.833333,large,1028.8,1761.88
+30.100-00,SBABC_mda_only,SBABC_md_only,the 19 instances of SBABC_md_only,30,30,30,21493.6,21081.2,7.67385e-06,5.37169e-05,1,reference,0.86,large,309,515.501
+30.250-00,SBABC_mda_only,SBABC_md_only,the 19 instances of SBABC_md_only,30,30,30,54840.1,53640.7,3.72529e-09,5.58794e-08,1,reference,0.846667,large,920.695,1476.3
+30.500-00,SBABC_mda_only,SBABC_md_only,the 19 instances of SBABC_md_only,30,30,30,109874,107463,1.86265e-09,3.53903e-08,1,reference,0.975556,large,2022.23,2799.81
+5.100-00,SBABC_mda_only,SBABC_md_only,the 19 instances of SBABC_md_only,30,30,30,23981.1,23693.2,3.23914e-06,2.59131e-05,1,reference,0.743333,large,198.358,381.938
+5.250-00,SBABC_mda_only,SBABC_md_only,the 19 instances of SBABC_md_only,30,30,30,57703.7,56564.5,2.35198e-06,2.35198e-05,1,reference,0.931111,large,910.867,1363.27
+5.500-00,SBABC_mda_only,SBABC_md_only,the 19 instances of SBABC_md_only,30,30,30,113890,112415,3.85568e-07,4.24124e-06,1,reference,0.755556,large,1054.93,1908.64
+mknap1-2,SBABC_mda_only,SBABC_md_only,the 19 instances of SBABC_md_only,30,30,30,8706.1,8706.1,1,1,0,tie,0,negligible,0,0
+mknap1-3,SBABC_mda_only,SBABC_md_only,the 19 instances of SBABC_md_only,30,30,30,4015,4015,1,1,0,tie,0,negligible,0,0
+mknap1-4,SBABC_mda_only,SBABC_md_only,the 19 instances of SBABC_md_only,30,30,30,6120,6113.33,0.0455003,0.136501,0,reference,0.133333,negligible,1.66667,13.3333
+mknap1-5,SBABC_mda_only,SBABC_md_only,the 19 instances of SBABC_md_only,30,30,30,12400,12392.3,0.00121828,0.00487312,1,reference,0.433333,medium,4,11.6667
+mknap1-6,SBABC_mda_only,SBABC_md_only,the 19 instances of SBABC_md_only,30,30,30,10610.7,10589.9,0.000728416,0.00364208,1,reference,0.488889,large,10.3,31.0333
+mknap1-7,SBABC_mda_only,SBABC_md_only,the 19 instances of SBABC_md_only,30,30,30,16523.6,16455.4,7.6781e-06,5.37169e-05,1,reference,0.86,large,43.2,98.7667
+mknap2-1,SBABC_mda_only,SBABC_md_only,the 19 instances of SBABC_md_only,30,30,30,7770.43,7334.83,1.86265e-09,3.53903e-08,1,reference,1,large,309.497,580.667
+mknap2-10,SBABC_mda_only,SBABC_md_only,the 19 instances of SBABC_md_only,30,30,30,623210,520416,1.86265e-09,3.53903e-08,1,reference,1,large,89775.1,116547
+mknap2-2,SBABC_mda_only,SBABC_md_only,the 19 instances of SBABC_md_only,30,30,30,8716.3,8632.83,2.56308e-06,2.35198e-05,1,reference,0.944444,large,52.5667,124.233
+mknap2-9,SBABC_mda_only,SBABC_md_only,the 19 instances of SBABC_md_only,30,30,30,1.09538e+06,1.08122e+06,1.86265e-09,3.53903e-08,1,reference,1,large,11950.2,16409.5
+10.100-00,SBABC_mda_only,SBABC_ma_only,the 19 instances of SBABC_ma_only,30,30,30,22668.9,22362.8,8.85651e-05,0.00053139,1,reference,0.627778,large,180.667,435.775
+10.250-00,SBABC_mda_only,SBABC_ma_only,the 19 instances of SBABC_ma_only,30,30,30,57277.7,55244.2,3.72529e-09,5.21541e-08,1,reference,0.984444,large,1718.72,2367.04
+10.500-00,SBABC_mda_only,SBABC_ma_only,the 19 instances of SBABC_ma_only,30,30,30,111240,104866,1.73331e-06,2.2533e-05,1,reference,1,large,5807.95,6943.75
+30.100-00,SBABC_mda_only,SBABC_ma_only,the 19 instances of SBABC_ma_only,30,30,30,21493.6,21167.9,2.3488e-06,2.58368e-05,1,reference,0.717778,large,220.065,434.702
+30.250-00,SBABC_mda_only,SBABC_ma_only,the 19 instances of SBABC_ma_only,30,30,30,54840.1,52526.1,1.86265e-09,3.53903e-08,1,reference,1,large,1975.51,2675.71
+30.500-00,SBABC_mda_only,SBABC_ma_only,the 19 instances of SBABC_ma_only,30,30,30,109874,102551,1.86265e-09,3.53903e-08,1,reference,1,large,6652.29,8005.54
+5.100-00,SBABC_mda_only,SBABC_ma_only,the 19 instances of SBABC_ma_only,30,30,30,23981.1,23913.3,0.138617,0.277235,0,reference,0.174444,small,-13.0375,149.602
+5.250-00,SBABC_mda_only,SBABC_ma_only,the 19 instances of SBABC_ma_only,30,30,30,57703.7,55606.4,1.86265e-09,3.53903e-08,1,reference,0.997778,large,1844.73,2342.83
+5.500-00,SBABC_mda_only,SBABC_ma_only,the 19 instances of SBABC_ma_only,30,30,30,113890,107411,1.73331e-06,2.2533e-05,1,reference,1,large,5905.8,7079.58
+mknap1-2,SBABC_mda_only,SBABC_ma_only,the 19 instances of SBABC_ma_only,30,30,30,8706.1,8612,0.00131209,0.00642411,1,reference,0.433333,medium,48.65,143.323
+mknap1-3,SBABC_mda_only,SBABC_ma_only,the 19 instances of SBABC_ma_only,30,30,30,4015,4014.33,0.157299,0.277235,0,reference,0.0666667,negligible,0,1.66667
+mknap1-4,SBABC_mda_only,SBABC_ma_only,the 19 instances of SBABC_ma_only,30,30,30,6120,6092.67,0.00128482,0.00642411,1,reference,0.433333,medium,5,66
+mknap1-5,SBABC_mda_only,SBABC_ma_only,the 19 instances of SBABC_ma_only,30,30,30,12400,12380,0.0421682,0.126505,0,reference,0.166667,small,1,51.3333
+mknap1-6,SBABC_mda_only,SBABC_ma_only,the 19 instances of SBABC_ma_only,30,30,30,10610.7,10579.8,8.45966e-06,8.45966e-05,1,reference,0.85,large,22,40.8333
+mknap1-7,SBABC_mda_only,SBABC_ma_only,the 19 instances of SBABC_ma_only,30,30,30,16523.6,16482.8,6.27347e-05,0.000439143,1,reference,0.707778,large,27.6992,53.8667
+mknap2-1,SBABC_mda_only,SBABC_ma_only,the 19 instances of SBABC_ma_only,30,30,30,7770.43,7706.8,1.75803e-05,0.000158222,1,reference,0.764444,large,44.4,83.5008
+mknap2-10,SBABC_mda_only,SBABC_ma_only,the 19 instances of SBABC_ma_only,30,30,30,623210,578765,1.86265e-09,3.53903e-08,1,reference,1,large,37442.4,51856.8
+mknap2-2,SBABC_mda_only,SBABC_ma_only,the 19 instances of SBABC_ma_only,30,30,30,8716.3,8694.97,2.44752e-05,0.000195802,1,reference,0.614444,large,11.3,33.4
+mknap2-9,SBABC_mda_only,SBABC_ma_only,the 19 instances of SBABC_ma_only,30,30,30,1.09538e+06,1.09136e+06,1.86265e-09,3.53903e-08,1,reference,1,large,2951.34,5177.65
+10.100-00,SBABC_mda_only,SBABC_da_only,the 19 instances of SBABC_da_only,30,30,30,22668.9,21187.2,1.86265e-09,3.53903e-08,1,reference,1,large,1358.83,1599
+10.250-00,SBABC_mda_only,SBABC_da_only,the 19 instances of SBABC_da_only,30,30,30,57277.7,52254.9,1.73331e-06,1.55801e-05,1,reference,1,large,4775.09,5271.87
+10.500-00,SBABC_mda_only,SBABC_da_only,the 19 instances of SBABC_da_only,30,30,30,111240,101311,1.86265e-09,3.53903e-08,1,reference,1,large,9464.8,10368.1
+30.100-00,SBABC_mda_only,SBABC_da_only,the 19 instances of SBABC_da_only,30,30,30,21493.6,20197.4,1.86265e-09,3.53903e-08,1,reference,1,large,1178.56,1409.63
+30.250-00,SBABC_mda_only,SBABC_da_only,the 19 instances of SBABC_da_only,30,30,30,54840.1,50422.4,1.73331e-06,1.55801e-05,1,reference,1,large,4144.3,4661.03
+30.500-00,SBABC_mda_only,SBABC_da_only,the 19 instances of SBABC_da_only,30,30,30,109874,100357,1.86265e-09,3.53903e-08,1,reference,1,large,9044.58,10006.8
+5.100-00,SBABC_mda_only,SBABC_da_only,the 19 instances of SBABC_da_only,30,30,30,23981.1,22025.3,1.86265e-09,3.53903e-08,1,reference,1,large,1837.03,2064.2
+5.250-00,SBABC_mda_only,SBABC_da_only,the 19 instances of SBABC_da_only,30,30,30,57703.7,51459.5,1.86265e-09,3.53903e-08,1,reference,1,large,5968.46,6515.67
+5.500-00,SBABC_mda_only,SBABC_da_only,the 19 instances of SBABC_da_only,30,30,30,113890,102885,1.86265e-09,3.53903e-08,1,reference,1,large,10540.1,11476
+mknap1-2,SBABC_mda_only,SBABC_da_only,the 19 instances of SBABC_da_only,30,30,30,8706.1,8706.1,1,1,0,tie,0,negligible,0,0
+mknap1-3,SBABC_mda_only,SBABC_da_only,the 19 instances of SBABC_da_only,30,30,30,4015,4015,1,1,0,tie,0,negligible,0,0
+mknap1-4,SBABC_mda_only,SBABC_da_only,the 19 instances of SBABC_da_only,30,30,30,6120,6106.67,0.000598981,0.00179694,1,reference,0.5,large,7.33333,20
+mknap1-5,SBABC_mda_only,SBABC_da_only,the 19 instances of SBABC_da_only,30,30,30,12400,12344.3,1.1615e-05,4.64601e-05,1,reference,0.833333,large,38,74.6667
+mknap1-6,SBABC_mda_only,SBABC_da_only,the 19 instances of SBABC_da_only,30,30,30,10610.7,10488.7,1.73331e-06,1.55801e-05,1,reference,0.995556,large,104.6,139.9
+mknap1-7,SBABC_mda_only,SBABC_da_only,the 19 instances of SBABC_da_only,30,30,30,16523.6,16251.6,1.73331e-06,1.55801e-05,1,reference,1,large,235.833,311.267
+mknap2-1,SBABC_mda_only,SBABC_da_only,the 19 instances of SBABC_da_only,30,30,30,7770.43,7421.2,1.86265e-09,3.53903e-08,1,reference,1,large,291.6,411.803
+mknap2-10,SBABC_mda_only,SBABC_da_only,the 19 instances of SBABC_da_only,30,30,30,623210,553405,1.86265e-09,3.53903e-08,1,reference,1,large,61277.6,78250.6
+mknap2-2,SBABC_mda_only,SBABC_da_only,the 19 instances of SBABC_da_only,30,30,30,8716.3,8539.5,1.73113e-06,1.55801e-05,1,reference,1,large,150.5,202.967
+mknap2-9,SBABC_mda_only,SBABC_da_only,the 19 instances of SBABC_da_only,30,30,30,1.09538e+06,1.08284e+06,1.86265e-09,3.53903e-08,1,reference,1,large,11391,13703.8
+10.100-00,SBABC_mda_only,SBABC_move_only,the 19 instances of SBABC_move_only,30,30,30,22668.9,21672.2,1.86265e-09,3.53903e-08,1,reference,1,large,839.331,1162.87
+10.250-00,SBABC_mda_only,SBABC_move_only,the 19 instances of SBABC_move_only,30,30,30,57277.7,53022.1,1.86265e-09,3.53903e-08,1,reference,1,large,3967.02,4547.58
+10.500-00,SBABC_mda_only,SBABC_move_only,the 19 instances of SBABC_move_only,30,30,30,111240,102133,1.86265e-09,3.53903e-08,1,reference,1,large,8427.84,9859.9
+30.100-00,SBABC_mda_only,SBABC_move_only,the 19 instances of SBABC_move_only,30,30,30,21493.6,20289,1.86265e-09,3.53903e-08,1,reference,1,large,1061.83,1346.74
+30.250-00,SBABC_mda_only,SBABC_move_only,the 19 instances of SBABC_move_only,30,30,30,54840.1,50253.6,1.86265e-09,3.53903e-08,1,reference,1,large,4245.44,4927.27
+30.500-00,SBABC_mda_only,SBABC_move_only,the 19 instances of SBABC_move_only,30,30,30,109874,99106.4,1.86265e-09,3.53903e-08,1,reference,1,large,10143.5,11375.5
+5.100-00,SBABC_mda_only,SBABC_move_only,the 19 instances of SBABC_move_only,30,30,30,23981.1,22874.5,1.86265e-09,3.53903e-08,1,reference,0.984444,large,936.294,1274.33
+5.250-00,SBABC_mda_only,SBABC_move_only,the 19 instances of SBABC_move_only,30,30,30,57703.7,53095.7,1.86265e-09,3.53903e-08,1,reference,1,large,4307.1,4903.71
+5.500-00,SBABC_mda_only,SBABC_move_only,the 19 instances of SBABC_move_only,30,30,30,113890,104073,1.86265e-09,3.53903e-08,1,reference,1,large,9270.88,10394.5
+mknap1-2,SBABC_mda_only,SBABC_move_only,the 19 instances of SBABC_move_only,30,30,30,8706.1,8575.61,0.000668515,0.00200555,1,reference,0.466667,medium,73.2633,190.94
+mknap1-3,SBABC_mda_only,SBABC_move_only,the 19 instances of SBABC_move_only,30,30,30,4015,4012.33,0.0587817,0.0587817,0,reference,0.133333,negligible,0.333333,6.33333
+mknap1-4,SBABC_mda_only,SBABC_move_only,the 19 instances of SBABC_move_only,30,30,30,6120,6099,0.000118696,0.000474783,1,reference,0.633333,large,11.3333,32
+mknap1-5,SBABC_mda_only,SBABC_move_only,the 19 instances of SBABC_move_only,30,30,30,12400,12380.3,0.0115138,0.0230277,1,reference,0.266667,small,5.66667,37.3333
+mknap1-6,SBABC_mda_only,SBABC_move_only,the 19 instances of SBABC_move_only,30,30,30,10610.7,10575.1,5.78304e-06,3.46983e-05,1,reference,0.802222,large,24.1667,47.8
+mknap1-7,SBABC_mda_only,SBABC_move_only,the 19 instances of SBABC_move_only,30,30,30,16523.6,16439.5,9.30553e-06,4.65277e-05,1,reference,0.881111,large,61.3992,107.968
+mknap2-1,SBABC_mda_only,SBABC_move_only,the 19 instances of SBABC_move_only,30,30,30,7770.43,6806,1.86265e-09,3.53903e-08,1,reference,1,large,761.724,1175.9
+mknap2-10,SBABC_mda_only,SBABC_move_only,the 19 instances of SBABC_move_only,30,30,30,623210,478644,1.86265e-09,3.53903e-08,1,reference,1,large,124673,166122
+mknap2-2,SBABC_mda_only,SBABC_move_only,the 19 instances of SBABC_move_only,30,30,30,8716.3,8584.47,1.86265e-09,3.53903e-08,1,reference,1,large,96.8667,170.736
+mknap2-9,SBABC_mda_only,SBABC_move_only,the 19 instances of SBABC_move_only,30,30,30,1.09538e+06,1.07811e+06,1.86265e-09,3.53903e-08,1,reference,1,large,15055.9,19749
+10.100-00,SBABC_mda_only,SBABC_drop_only,the 19 instances of SBABC_drop_only,30,30,30,22668.9,17597.1,1.73331e-06,8.65019e-06,1,reference,1,large,4900.96,5229.74
+10.250-00,SBABC_mda_only,SBABC_drop_only,the 19 instances of SBABC_drop_only,30,30,30,57277.7,45006.5,1.86265e-09,3.53903e-08,1,reference,1,large,12017.6,12517.8
+10.500-00,SBABC_mda_only,SBABC_drop_only,the 19 instances of SBABC_drop_only,30,30,30,111240,91304.6,1.86265e-09,3.53903e-08,1,reference,1,large,19397.8,20425.1
+30.100-00,SBABC_mda_only,SBABC_drop_only,the 19 instances of SBABC_drop_only,30,30,30,21493.6,16516.3,1.86265e-09,3.53903e-08,1,reference,1,large,4805.63,5150.01
+30.250-00,SBABC_mda_only,SBABC_drop_only,the 19 instances of SBABC_drop_only,30,30,30,54840.1,42975.9,1.86265e-09,3.53903e-08,1,reference,1,large,11660.2,12073.5
+30.500-00,SBABC_mda_only,SBABC_drop_only,the 19 instances of SBABC_drop_only,30,30,30,109874,88572,1.86265e-09,3.53903e-08,1,reference,1,large,20922.4,21676.6
+5.100-00,SBABC_mda_only,SBABC_drop_only,the 19 instances of SBABC_drop_only,30,30,30,23981.1,18660.2,1.86265e-09,3.53903e-08,1,reference,1,large,5129.57,5513.24
+5.250-00,SBABC_mda_only,SBABC_drop_only,the 19 instances of SBABC_drop_only,30,30,30,57703.7,44647,1.86265e-09,3.53903e-08,1,reference,1,large,12718.6,13382.7
+5.500-00,SBABC_mda_only,SBABC_drop_only,the 19 instances of SBABC_drop_only,30,30,30,113890,91973.6,1.86265e-09,3.53903e-08,1,reference,1,large,21419.1,22401.3
+mknap1-2,SBABC_mda_only,SBABC_drop_only,the 19 instances of SBABC_drop_only,30,30,30,8706.1,8209.71,3.72978e-06,8.65019e-06,1,reference,0.933333,large,339.103,670.908
+mknap1-3,SBABC_mda_only,SBABC_drop_only,the 19 instances of SBABC_drop_only,30,30,30,4015,3509.17,1.73113e-06,8.65019e-06,1,reference,1,large,456.162,554.667
+mknap1-4,SBABC_mda_only,SBABC_drop_only,the 19 instances of SBABC_drop_only,30,30,30,6120,5300,1.73331e-06,8.65019e-06,1,reference,1,large,717.167,918.004
+mknap1-5,SBABC_mda_only,SBABC_drop_only,the 19 instances of SBABC_drop_only,30,30,30,12400,10411,1.73004e-06,8.65019e-06,1,reference,1,large,1798.66,2175.5
+mknap1-6,SBABC_mda_only,SBABC_drop_only,the 19 instances of SBABC_drop_only,30,30,30,10610.7,9235.9,1.86265e-09,3.53903e-08,1,reference,1,large,1259.17,1486.1
+mknap1-7,SBABC_mda_only,SBABC_drop_only,the 19 instances of SBABC_drop_only,30,30,30,16523.6,14200.7,1.86265e-09,3.53903e-08,1,reference,1,large,2118.93,2529
+mknap2-1,SBABC_mda_only,SBABC_drop_only,the 19 instances of SBABC_drop_only,30,30,30,7770.43,3862,1.86265e-09,3.53903e-08,1,reference,1,large,3668.03,4120.31
+mknap2-10,SBABC_mda_only,SBABC_drop_only,the 19 instances of SBABC_drop_only,30,30,30,623210,267940,1.86265e-09,3.53903e-08,1,reference,1,large,342039,368697
+mknap2-2,SBABC_mda_only,SBABC_drop_only,the 19 instances of SBABC_drop_only,30,30,30,8716.3,5958.33,1.86265e-09,3.53903e-08,1,reference,1,large,2563.86,2949.23
+mknap2-9,SBABC_mda_only,SBABC_drop_only,the 19 instances of SBABC_drop_only,30,30,30,1.09538e+06,740709,1.86265e-09,3.53903e-08,1,reference,1,large,340357,369265
+10.100-00,SBABC_mda_only,SBABC_add_only,the 19 instances of SBABC_add_only,30,30,0,22668.9,,1.86265e-09,3.53903e-08,1,reference,1,large,,
+10.250-00,SBABC_mda_only,SBABC_add_only,the 19 instances of SBABC_add_only,30,30,0,57277.7,,1.86265e-09,3.53903e-08,1,reference,1,large,,
+10.500-00,SBABC_mda_only,SBABC_add_only,the 19 instances of SBABC_add_only,30,30,0,111240,,1.86265e-09,3.53903e-08,1,reference,1,large,,
+30.100-00,SBABC_mda_only,SBABC_add_only,the 19 instances of SBABC_add_only,30,30,0,21493.6,,1.86265e-09,3.53903e-08,1,reference,1,large,,
+30.250-00,SBABC_mda_only,SBABC_add_only,the 19 instances of SBABC_add_only,30,30,0,54840.1,,1.86265e-09,3.53903e-08,1,reference,1,large,,
+30.500-00,SBABC_mda_only,SBABC_add_only,the 19 instances of SBABC_add_only,30,30,0,109874,,1.86265e-09,3.53903e-08,1,reference,1,large,,
+5.100-00,SBABC_mda_only,SBABC_add_only,the 19 instances of SBABC_add_only,30,30,0,23981.1,,1.86265e-09,3.53903e-08,1,reference,1,large,,
+5.250-00,SBABC_mda_only,SBABC_add_only,the 19 instances of SBABC_add_only,30,30,0,57703.7,,1.86265e-09,3.53903e-08,1,reference,1,large,,
+5.500-00,SBABC_mda_only,SBABC_add_only,the 19 instances of SBABC_add_only,30,30,0,113890,,1.86265e-09,3.53903e-08,1,reference,1,large,,
+mknap1-2,SBABC_mda_only,SBABC_add_only,the 19 instances of SBABC_add_only,30,30,30,8706.1,8513.02,1.28307e-05,1.28307e-05,1,reference,0.8,large,138.26,246.584
+mknap1-3,SBABC_mda_only,SBABC_add_only,the 19 instances of SBABC_add_only,30,30,30,4015,3901.17,2.53388e-06,5.19338e-06,1,reference,0.966667,large,80.3333,149.5
+mknap1-4,SBABC_mda_only,SBABC_add_only,the 19 instances of SBABC_add_only,30,30,30,6120,5534.5,1.73113e-06,5.19338e-06,1,reference,1,large,488.329,686.337
+mknap1-5,SBABC_mda_only,SBABC_add_only,the 19 instances of SBABC_add_only,30,30,30,12400,11275.8,1.86265e-09,3.53903e-08,1,reference,1,large,1019.33,1236.84
+mknap1-6,SBABC_mda_only,SBABC_add_only,the 19 instances of SBABC_add_only,30,30,30,10610.7,10294.8,1.86265e-09,3.53903e-08,1,reference,1,large,274.032,362.467
+mknap1-7,SBABC_mda_only,SBABC_add_only,the 19 instances of SBABC_add_only,30,30,30,16523.6,15416.2,1.86265e-09,3.53903e-08,1,reference,1,large,967.599,1250.83
+mknap2-1,SBABC_mda_only,SBABC_add_only,the 19 instances of SBABC_add_only,30,30,0,7770.43,,1.86265e-09,3.53903e-08,1,reference,1,large,,
+mknap2-10,SBABC_mda_only,SBABC_add_only,the 19 instances of SBABC_add_only,30,30,0,623210,,1.86265e-09,3.53903e-08,1,reference,1,large,,
+mknap2-2,SBABC_mda_only,SBABC_add_only,the 19 instances of SBABC_add_only,30,30,30,8716.3,6634.17,1.86265e-09,3.53903e-08,1,reference,1,large,1771.23,2417.57
+mknap2-9,SBABC_mda_only,SBABC_add_only,the 19 instances of SBABC_add_only,30,30,30,1.09538e+06,1.06183e+06,1.86265e-09,3.53903e-08,1,reference,1,large,30095.5,37067.8
+10.100-00,SBABC_full,SBABC_textbook_ties,the 19 instances of SBABC_textbook_ties,30,30,30,22563.6,22550.8,0.680796,1,0,reference,0.0422222,negligible,-77.9708,105.938
+10.250-00,SBABC_full,SBABC_textbook_ties,the 19 instances of SBABC_textbook_ties,30,30,30,55689.5,55971.4,0.0161008,0.289814,0,other,-0.24,small,-578.135,7.54083
+10.500-00,SBABC_full,SBABC_textbook_ties,the 19 instances of SBABC_textbook_ties,30,30,30,106507,106732,0.151887,1,0,other,-0.136667,negligible,-705.814,253.539
+30.100-00,SBABC_full,SBABC_textbook_ties,the 19 instances of SBABC_textbook_ties,30,30,30,21469.5,21456.7,0.967186,1,0,reference,0.0277778,negligible,-58.87,85.1017
+30.250-00,SBABC_full,SBABC_textbook_ties,the 19 instances of SBABC_textbook_ties,30,30,30,53514.5,53614.8,0.464545,1,0,other,-0.0933333,negligible,-346.35,151.133
+30.500-00,SBABC_full,SBABC_textbook_ties,the 19 instances of SBABC_textbook_ties,30,30,30,105300,105308,0.871208,1,0,reference,0.0355556,negligible,-593.747,579.073
+5.100-00,SBABC_full,SBABC_textbook_ties,the 19 instances of SBABC_textbook_ties,30,30,30,23860.2,23915.2,0.155814,1,0,other,-0.211111,small,-136.704,28.5008
+5.250-00,SBABC_full,SBABC_textbook_ties,the 19 instances of SBABC_textbook_ties,30,30,30,56403.8,56583.4,0.020099,0.341683,0,other,-0.287778,small,-382.334,33.8667
+5.500-00,SBABC_full,SBABC_textbook_ties,the 19 instances of SBABC_textbook_ties,30,30,30,109419,109587,0.318396,1,0,other,-0.0844444,negligible,-790.337,449.943
+mknap1-2,SBABC_full,SBABC_textbook_ties,the 19 instances of SBABC_textbook_ties,30,30,30,8706.1,8706.1,1,1,0,tie,0,negligible,0,0
+mknap1-3,SBABC_full,SBABC_textbook_ties,the 19 instances of SBABC_textbook_ties,30,30,30,4015,4015,1,1,0,tie,0,negligible,0,0
+mknap1-4,SBABC_full,SBABC_textbook_ties,the 19 instances of SBABC_textbook_ties,30,30,30,6120,6120,1,1,0,tie,0,negligible,0,0
+mknap1-5,SBABC_full,SBABC_textbook_ties,the 19 instances of SBABC_textbook_ties,30,30,30,12400,12400,1,1,0,tie,0,negligible,0,0
+mknap1-6,SBABC_full,SBABC_textbook_ties,the 19 instances of SBABC_textbook_ties,30,30,30,10595.3,10596,0.903567,1,0,reference,0.0388889,negligible,-7.90083,6
+mknap1-7,SBABC_full,SBABC_textbook_ties,the 19 instances of SBABC_textbook_ties,30,30,30,16514.7,16502.7,0.10099,1,0,reference,0.238889,small,0,24.6008
+mknap2-1,SBABC_full,SBABC_textbook_ties,the 19 instances of SBABC_textbook_ties,30,30,30,7769.97,7764.73,0.0151202,0.287283,0,reference,0.248889,small,1.2,9.46667
+mknap2-10,SBABC_full,SBABC_textbook_ties,the 19 instances of SBABC_textbook_ties,30,30,30,619075,620441,0.41992,1,0,reference,0.162222,small,-4241.16,754.852
+mknap2-2,SBABC_full,SBABC_textbook_ties,the 19 instances of SBABC_textbook_ties,30,30,30,8716.83,8715.43,0.304673,1,0,reference,0.123333,negligible,-1.40083,4.13333
+mknap2-9,SBABC_full,SBABC_textbook_ties,the 19 instances of SBABC_textbook_ties,30,30,30,1.09508e+06,1.09506e+06,0.0400347,0.640555,0,reference,0.133333,negligible,-358.341,306.936
+10.100-00,SBABC_full,SBABC_sharedV3,the 19 instances of SBABC_sharedV3,30,30,30,22563.6,22506,0.39305,1,0,reference,0.14,negligible,-46.3683,163.536
+10.250-00,SBABC_full,SBABC_sharedV3,the 19 instances of SBABC_sharedV3,30,30,30,55689.5,55863.7,0.280087,1,0,other,-0.208889,small,-477.402,130.807
+10.500-00,SBABC_full,SBABC_sharedV3,the 19 instances of SBABC_sharedV3,30,30,30,106507,106641,0.636153,1,0,other,-0.111111,negligible,-609.91,350.637
+30.100-00,SBABC_full,SBABC_sharedV3,the 19 instances of SBABC_sharedV3,30,30,30,21469.5,21342.1,0.00662572,0.112637,0,reference,0.467778,medium,53.8658,200.8
+30.250-00,SBABC_full,SBABC_sharedV3,the 19 instances of SBABC_sharedV3,30,30,30,53514.5,53299.1,0.0732441,1,0,reference,0.17,small,-70.135,503.202
+30.500-00,SBABC_full,SBABC_sharedV3,the 19 instances of SBABC_sharedV3,30,30,30,105300,105512,0.761065,1,0,other,-0.0455556,negligible,-807.342,378.372
+5.100-00,SBABC_full,SBABC_sharedV3,the 19 instances of SBABC_sharedV3,30,30,30,23860.2,23848.7,0.8774,1,0,tie,0,negligible,-71.1675,94.2692
+5.250-00,SBABC_full,SBABC_sharedV3,the 19 instances of SBABC_sharedV3,30,30,30,56403.8,56408.2,0.711204,1,0,other,-0.00555556,negligible,-214.703,207.978
+5.500-00,SBABC_full,SBABC_sharedV3,the 19 instances of SBABC_sharedV3,30,30,30,109419,109837,0.198076,1,0,other,-0.2,small,-1009.31,166.949
+mknap1-2,SBABC_full,SBABC_sharedV3,the 19 instances of SBABC_sharedV3,30,30,30,8706.1,8706.1,1,1,0,tie,0,negligible,0,0
+mknap1-3,SBABC_full,SBABC_sharedV3,the 19 instances of SBABC_sharedV3,30,30,30,4015,4015,1,1,0,tie,0,negligible,0,0
+mknap1-4,SBABC_full,SBABC_sharedV3,the 19 instances of SBABC_sharedV3,30,30,30,6120,6119.33,0.157299,1,0,reference,0.0666667,negligible,0,1.66667
+mknap1-5,SBABC_full,SBABC_sharedV3,the 19 instances of SBABC_sharedV3,30,30,30,12400,12400,1,1,0,tie,0,negligible,0,0
+mknap1-6,SBABC_full,SBABC_sharedV3,the 19 instances of SBABC_sharedV3,30,30,30,10595.3,10595.8,0.80803,1,0,other,-0.0533333,negligible,-9.46667,8.50083
+mknap1-7,SBABC_full,SBABC_sharedV3,the 19 instances of SBABC_sharedV3,30,30,30,16514.7,16504.5,0.103391,1,0,reference,0.212222,small,-1.9,22.4667
+mknap2-1,SBABC_full,SBABC_sharedV3,the 19 instances of SBABC_sharedV3,30,30,30,7769.97,7747.63,0.000566242,0.0107586,1,reference,0.48,large,7.79917,40.1675
+mknap2-10,SBABC_full,SBABC_sharedV3,the 19 instances of SBABC_sharedV3,30,30,30,619075,606972,0.000661697,0.0119105,1,reference,0.447778,medium,5479.45,18907.2
+mknap2-2,SBABC_full,SBABC_sharedV3,the 19 instances of SBABC_sharedV3,30,30,30,8716.83,8704.37,0.0114007,0.182411,0,reference,0.341111,medium,3.79917,23.8342
+mknap2-9,SBABC_full,SBABC_sharedV3,the 19 instances of SBABC_sharedV3,30,30,30,1.09508e+06,1.09474e+06,0.11831,1,0,reference,0.33,medium,-104.611,751.805
+10.100-00,SBABC_mda_only,SBABC_mda_strict,the 19 instances of SBABC_mda_strict,30,30,30,22668.9,22452.1,1.3594e-05,0.000250297,1,reference,0.72,large,147.099,287.4
+10.250-00,SBABC_mda_only,SBABC_mda_strict,the 19 instances of SBABC_mda_strict,30,30,30,57277.7,57138.6,0.164184,1,0,reference,0.23,small,-38.6675,320.544
+10.500-00,SBABC_mda_only,SBABC_mda_strict,the 19 instances of SBABC_mda_strict,30,30,30,111240,111607,0.0174537,0.296712,0,other,-0.285556,small,-673.448,-63.5325
+30.100-00,SBABC_mda_only,SBABC_mda_strict,the 19 instances of SBABC_mda_strict,30,30,30,21493.6,21422.5,0.140283,1,0,reference,0.272222,small,-3.3,143.333
+30.250-00,SBABC_mda_only,SBABC_mda_strict,the 19 instances of SBABC_mda_strict,30,30,30,54840.1,54798.3,0.39305,1,0,reference,0.0955556,negligible,-116.1,198.67
+30.500-00,SBABC_mda_only,SBABC_mda_strict,the 19 instances of SBABC_mda_strict,30,30,30,109874,109970,0.612006,1,0,other,-0.0977778,negligible,-404.272,210.712
+5.100-00,SBABC_mda_only,SBABC_mda_strict,the 19 instances of SBABC_mda_strict,30,30,30,23981.1,23755,1.31735e-05,0.000250297,1,reference,0.817778,large,165.266,287.668
+5.250-00,SBABC_mda_only,SBABC_mda_strict,the 19 instances of SBABC_mda_strict,30,30,30,57703.7,57686.2,0.730342,1,0,reference,0.0711111,negligible,-127.739,162.439
+5.500-00,SBABC_mda_only,SBABC_mda_strict,the 19 instances of SBABC_mda_strict,30,30,30,113890,114289,0.0277414,0.443863,0,other,-0.364444,medium,-714.911,-68.4983
+mknap1-2,SBABC_mda_only,SBABC_mda_strict,the 19 instances of SBABC_mda_strict,30,30,30,8706.1,8706.1,1,1,0,tie,0,negligible,0,0
+mknap1-3,SBABC_mda_only,SBABC_mda_strict,the 19 instances of SBABC_mda_strict,30,30,30,4015,4015,1,1,0,tie,0,negligible,0,0
+mknap1-4,SBABC_mda_only,SBABC_mda_strict,the 19 instances of SBABC_mda_strict,30,30,30,6120,6120,1,1,0,tie,0,negligible,0,0
+mknap1-5,SBABC_mda_only,SBABC_mda_strict,the 19 instances of SBABC_mda_strict,30,30,30,12400,12400,1,1,0,tie,0,negligible,0,0
+mknap1-6,SBABC_mda_only,SBABC_mda_strict,the 19 instances of SBABC_mda_strict,30,30,30,10610.7,10606.9,0.0429952,0.644928,0,reference,0.274444,small,-2.3,9.2
+mknap1-7,SBABC_mda_only,SBABC_mda_strict,the 19 instances of SBABC_mda_strict,30,30,30,16523.6,16531,0.134748,1,0,other,-0.244444,small,-16.1333,1.13333
+mknap2-1,SBABC_mda_only,SBABC_mda_strict,the 19 instances of SBABC_mda_strict,30,30,30,7770.43,7770.07,0.608248,1,0,reference,0.0322222,negligible,-1.66667,2.5
+mknap2-10,SBABC_mda_only,SBABC_mda_strict,the 19 instances of SBABC_mda_strict,30,30,30,623210,622985,0.469168,1,0,reference,0.13,negligible,-636.943,1078.89
+mknap2-2,SBABC_mda_only,SBABC_mda_strict,the 19 instances of SBABC_mda_strict,30,30,30,8716.3,8718.2,0.17879,1,0,other,-0.222222,small,-4.36667,0.633333
+mknap2-9,SBABC_mda_only,SBABC_mda_strict,the 19 instances of SBABC_mda_strict,30,30,30,1.09538e+06,1.09535e+06,0.118075,1,0,reference,0.146667,negligible,-10.5667,82.6667
+10.100-00,SBABC (tuned configuration),SBABC_strict,the 19 instances of SBABC_strict,30,30,30,22461.8,22297.5,0.000283264,0.00453222,1,reference,0.51,large,85.4317,245.334
+10.250-00,SBABC (tuned configuration),SBABC_strict,the 19 instances of SBABC_strict,30,30,30,56234.4,56327.7,0.308521,1,0,other,-0.176667,small,-301.069,122.846
+10.500-00,SBABC (tuned configuration),SBABC_strict,the 19 instances of SBABC_strict,30,30,30,108328,109386,0.000231566,0.00393662,1,other,-0.637778,large,-1512.29,-585.196
+30.100-00,SBABC (tuned configuration),SBABC_strict,the 19 instances of SBABC_strict,30,30,30,21410.6,21324.7,0.0189701,0.227642,0,reference,0.315556,small,10.3667,156.136
+30.250-00,SBABC (tuned configuration),SBABC_strict,the 19 instances of SBABC_strict,30,30,30,53906.7,54126.1,0.0387179,0.425897,0,other,-0.34,medium,-389,-52.0642
+30.500-00,SBABC (tuned configuration),SBABC_strict,the 19 instances of SBABC_strict,30,30,30,107693,108635,0.000152871,0.00275168,1,other,-0.533333,large,-1381.97,-514.592
+5.100-00,SBABC (tuned configuration),SBABC_strict,the 19 instances of SBABC_strict,30,30,30,23645.3,23441.4,2.7623e-06,5.24838e-05,1,reference,0.574444,large,118.832,287.334
+5.250-00,SBABC (tuned configuration),SBABC_strict,the 19 instances of SBABC_strict,30,30,30,56695.2,56668.2,0.837034,1,0,reference,0.0555556,negligible,-164.042,217.135
+5.500-00,SBABC (tuned configuration),SBABC_strict,the 19 instances of SBABC_strict,30,30,30,111609,112036,0.014538,0.188994,0,other,-0.353333,medium,-796.935,-59.3267
+mknap1-2,SBABC (tuned configuration),SBABC_strict,the 19 instances of SBABC_strict,30,30,30,8706.1,8706.1,1,1,0,tie,0,negligible,0,0
+mknap1-3,SBABC (tuned configuration),SBABC_strict,the 19 instances of SBABC_strict,30,30,30,4015,4015,1,1,0,tie,0,negligible,0,0
+mknap1-4,SBABC (tuned configuration),SBABC_strict,the 19 instances of SBABC_strict,30,30,30,6120,6120,1,1,0,tie,0,negligible,0,0
+mknap1-5,SBABC (tuned configuration),SBABC_strict,the 19 instances of SBABC_strict,30,30,30,12400,12400,1,1,0,tie,0,negligible,0,0
+mknap1-6,SBABC (tuned configuration),SBABC_strict,the 19 instances of SBABC_strict,30,30,30,10604,10604.4,0.807375,1,0,reference,0.00111111,negligible,-6.9,6.2
+mknap1-7,SBABC (tuned configuration),SBABC_strict,the 19 instances of SBABC_strict,30,30,30,16500.7,16509.9,0.284863,1,0,other,-0.201111,small,-22.3,3.76667
+mknap2-1,SBABC (tuned configuration),SBABC_strict,the 19 instances of SBABC_strict,30,30,30,7771.17,7770.7,0.580912,1,0,reference,0.0344444,negligible,-1.3,2.23333
+mknap2-10,SBABC (tuned configuration),SBABC_strict,the 19 instances of SBABC_strict,30,30,30,623976,622938,0.00460263,0.0690394,0,reference,0.48,large,398.061,1681.94
+mknap2-2,SBABC (tuned configuration),SBABC_strict,the 19 instances of SBABC_strict,30,30,30,8715.4,8719.03,0.00723443,0.101282,0,other,-0.301111,small,-6.06667,-1.16667
+mknap2-9,SBABC (tuned configuration),SBABC_strict,the 19 instances of SBABC_strict,30,30,30,1.09531e+06,1.09532e+06,0.558549,1,0,reference,0.0877778,negligible,-64.9,39.135

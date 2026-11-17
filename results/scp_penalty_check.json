@@ -1,0 +1,1380 @@
+[
+ {
+  "algorithm": "SBABC",
+  "factor": null,
+  "instance": "scp64",
+  "mean_error_pct": 877.0992366412214,
+  "feasible_runs": 3,
+  "errors": [
+   923.6641221374045,
+   827.4809160305343,
+   880.1526717557252
+  ],
+  "seconds": 454.7
+ },
+ {
+  "algorithm": "SBABC",
+  "factor": null,
+  "instance": "scp45",
+  "mean_error_pct": 386.5885416666667,
+  "feasible_runs": 3,
+  "errors": [
+   349.4140625,
+   391.015625,
+   419.3359375
+  ],
+  "seconds": 467.7
+ },
+ {
+  "algorithm": "SBABC",
+  "factor": null,
+  "instance": "scp44",
+  "mean_error_pct": 427.80026990553307,
+  "feasible_runs": 3,
+  "errors": [
+   443.1174089068826,
+   426.9230769230769,
+   413.36032388663966
+  ],
+  "seconds": 470.1
+ },
+ {
+  "algorithm": "SBABC",
+  "factor": 100.0,
+  "instance": "scp64",
+  "mean_error_pct": 874.3002544529263,
+  "feasible_runs": 3,
+  "errors": [
+   719.0839694656488,
+   930.5343511450382,
+   973.2824427480916
+  ],
+  "seconds": 483.9
+ },
+ {
+  "algorithm": "SBABC",
+  "factor": 100.0,
+  "instance": "scp44",
+  "mean_error_pct": 422.8744939271255,
+  "feasible_runs": 3,
+  "errors": [
+   417.20647773279353,
+   411.33603238866397,
+   440.08097165991904
+  ],
+  "seconds": 498.1
+ },
+ {
+  "algorithm": "SBABC",
+  "factor": 100.0,
+  "instance": "scp45",
+  "mean_error_pct": 389.9739583333333,
+  "feasible_runs": 3,
+  "errors": [
+   387.3046875,
+   409.1796875,
+   373.4375
+  ],
+  "seconds": 499.0
+ },
+ {
+  "algorithm": "SBABC",
+  "factor": 1000.0,
+  "instance": "scp44",
+  "mean_error_pct": 427.80026990553307,
+  "feasible_runs": 3,
+  "errors": [
+   443.1174089068826,
+   426.9230769230769,
+   413.36032388663966
+  ],
+  "seconds": 508.8
+ },
+ {
+  "algorithm": "SBABC",
+  "factor": 1000.0,
+  "instance": "scp45",
+  "mean_error_pct": 386.5885416666667,
+  "feasible_runs": 3,
+  "errors": [
+   349.4140625,
+   391.015625,
+   419.3359375
+  ],
+  "seconds": 510.3
+ },
+ {
+  "algorithm": "SBABC",
+  "factor": null,
+  "instance": "scp55",
+  "mean_error_pct": 1089.0995260663506,
+  "feasible_runs": 3,
+  "errors": [
+   1076.303317535545,
+   1113.2701421800948,
+   1077.7251184834124
+  ],
+  "seconds": 882.9
+ },
+ {
+  "algorithm": "SBPSO",
+  "factor": null,
+  "instance": "scp45",
+  "mean_error_pct": 254.75260416666666,
+  "feasible_runs": 3,
+  "errors": [
+   290.4296875,
+   210.15625,
+   263.671875
+  ],
+  "seconds": 405.2
+ },
+ {
+  "algorithm": "SBPSO",
+  "factor": null,
+  "instance": "scp44",
+  "mean_error_pct": 250.94466936572198,
+  "feasible_runs": 3,
+  "errors": [
+   185.4251012145749,
+   266.80161943319837,
+   300.6072874493927
+  ],
+  "seconds": 415.6
+ },
+ {
+  "algorithm": "SBABC",
+  "factor": null,
+  "instance": "scp54",
+  "mean_error_pct": 910.0550964187328,
+  "feasible_runs": 3,
+  "errors": [
+   903.305785123967,
+   912.396694214876,
+   914.4628099173553
+  ],
+  "seconds": 914.6
+ },
+ {
+  "algorithm": "SBABC",
+  "factor": 100.0,
+  "instance": "scp54",
+  "mean_error_pct": 918.3195592286502,
+  "feasible_runs": 3,
+  "errors": [
+   903.305785123967,
+   937.1900826446281,
+   914.4628099173553
+  ],
+  "seconds": 974.1
+ },
+ {
+  "algorithm": "SBABC",
+  "factor": 100.0,
+  "instance": "scp55",
+  "mean_error_pct": 1128.5939968404425,
+  "feasible_runs": 3,
+  "errors": [
+   1156.398104265403,
+   1113.2701421800948,
+   1116.1137440758293
+  ],
+  "seconds": 988.0
+ },
+ {
+  "algorithm": "SBABC",
+  "factor": 1000.0,
+  "instance": "scp64",
+  "mean_error_pct": 877.0992366412214,
+  "feasible_runs": 3,
+  "errors": [
+   923.6641221374045,
+   827.4809160305343,
+   880.1526717557252
+  ],
+  "seconds": 624.1
+ },
+ {
+  "algorithm": "SBPSO",
+  "factor": null,
+  "instance": "scp64",
+  "mean_error_pct": 485.4961832061069,
+  "feasible_runs": 3,
+  "errors": [
+   645.8015267175573,
+   245.80152671755727,
+   564.8854961832061
+  ],
+  "seconds": 375.6
+ },
+ {
+  "algorithm": "SBPSO",
+  "factor": 100.0,
+  "instance": "scp45",
+  "mean_error_pct": 161.19791666666666,
+  "feasible_runs": 3,
+  "errors": [
+   224.4140625,
+   157.03125,
+   102.1484375
+  ],
+  "seconds": 416.5
+ },
+ {
+  "algorithm": "SBPSO",
+  "factor": 100.0,
+  "instance": "scp44",
+  "mean_error_pct": 201.95681511470988,
+  "feasible_runs": 3,
+  "errors": [
+   226.51821862348177,
+   204.251012145749,
+   175.1012145748988
+  ],
+  "seconds": 428.5
+ },
+ {
+  "algorithm": "SBPSO",
+  "factor": null,
+  "instance": "scp54",
+  "mean_error_pct": 647.2451790633609,
+  "feasible_runs": 3,
+  "errors": [
+   745.0413223140496,
+   730.1652892561983,
+   466.5289256198347
+  ],
+  "seconds": 837.6
+ },
+ {
+  "algorithm": "SBPSO",
+  "factor": null,
+  "instance": "scp55",
+  "mean_error_pct": 848.0252764612954,
+  "feasible_runs": 3,
+  "errors": [
+   823.2227488151659,
+   789.0995260663507,
+   931.7535545023696
+  ],
+  "seconds": 839.5
+ },
+ {
+  "algorithm": "SBPSO",
+  "factor": 100.0,
+  "instance": "scp64",
+  "mean_error_pct": 262.8498727735369,
+  "feasible_runs": 3,
+  "errors": [
+   351.14503816793894,
+   229.7709923664122,
+   207.63358778625954
+  ],
+  "seconds": 384.5
+ },
+ {
+  "algorithm": "SBABC",
+  "factor": 1000.0,
+  "instance": "scp54",
+  "mean_error_pct": 910.0550964187328,
+  "feasible_runs": 3,
+  "errors": [
+   903.305785123967,
+   912.396694214876,
+   914.4628099173553
+  ],
+  "seconds": 1046.5
+ },
+ {
+  "algorithm": "SBABC",
+  "factor": 1000.0,
+  "instance": "scp55",
+  "mean_error_pct": 1089.0995260663506,
+  "feasible_runs": 3,
+  "errors": [
+   1076.303317535545,
+   1113.2701421800948,
+   1077.7251184834124
+  ],
+  "seconds": 1105.6
+ },
+ {
+  "algorithm": "SBPSO",
+  "factor": 1000.0,
+  "instance": "scp44",
+  "mean_error_pct": 166.53171390013495,
+  "feasible_runs": 3,
+  "errors": [
+   151.21457489878543,
+   176.11336032388664,
+   172.2672064777328
+  ],
+  "seconds": 351.6
+ },
+ {
+  "algorithm": "SBPSO",
+  "factor": 1000.0,
+  "instance": "scp45",
+  "mean_error_pct": 204.4921875,
+  "feasible_runs": 3,
+  "errors": [
+   175.390625,
+   231.25,
+   206.8359375
+  ],
+  "seconds": 381.7
+ },
+ {
+  "algorithm": "SBPSO",
+  "factor": 100.0,
+  "instance": "scp55",
+  "mean_error_pct": 330.17377567140596,
+  "feasible_runs": 3,
+  "errors": [
+   356.3981042654028,
+   326.54028436018956,
+   307.58293838862556
+  ],
+  "seconds": 761.4
+ },
+ {
+  "algorithm": "SBPSO",
+  "factor": 100.0,
+  "instance": "scp54",
+  "mean_error_pct": 401.7906336088154,
+  "feasible_runs": 3,
+  "errors": [
+   428.099173553719,
+   415.2892561983471,
+   361.9834710743802
+  ],
+  "seconds": 850.7
+ },
+ {
+  "algorithm": "GBABC",
+  "factor": null,
+  "instance": "scp44",
+  "mean_error_pct": 233.87314439946022,
+  "feasible_runs": 3,
+  "errors": [
+   230.76923076923077,
+   224.2914979757085,
+   246.5587044534413
+  ],
+  "seconds": 255.0
+ },
+ {
+  "algorithm": "SBABC",
+  "factor": 100.0,
+  "instance": "scpb1",
+  "mean_error_pct": 2285.990338164251,
+  "feasible_runs": 3,
+  "errors": [
+   2243.478260869565,
+   2350.7246376811595,
+   2263.768115942029
+  ],
+  "seconds": 1893.0
+ },
+ {
+  "algorithm": "GBABC",
+  "factor": null,
+  "instance": "scp45",
+  "mean_error_pct": 243.75,
+  "feasible_runs": 3,
+  "errors": [
+   239.453125,
+   275.78125,
+   216.015625
+  ],
+  "seconds": 212.6
+ },
+ {
+  "algorithm": "SBPSO",
+  "factor": 1000.0,
+  "instance": "scp64",
+  "mean_error_pct": 288.295165394402,
+  "feasible_runs": 3,
+  "errors": [
+   261.0687022900763,
+   127.48091603053435,
+   476.3358778625954
+  ],
+  "seconds": 438.5
+ },
+ {
+  "algorithm": "SBABC",
+  "factor": null,
+  "instance": "scpb1",
+  "mean_error_pct": 2261.8357487922704,
+  "feasible_runs": 3,
+  "errors": [
+   2243.478260869565,
+   2278.2608695652175,
+   2263.768115942029
+  ],
+  "seconds": 1949.9
+ },
+ {
+  "algorithm": "SBPSO",
+  "factor": 1000.0,
+  "instance": "scp55",
+  "mean_error_pct": 453.55450236966817,
+  "feasible_runs": 3,
+  "errors": [
+   579.6208530805687,
+   512.7962085308056,
+   268.2464454976303
+  ],
+  "seconds": 692.2
+ },
+ {
+  "algorithm": "GBABC",
+  "factor": null,
+  "instance": "scp64",
+  "mean_error_pct": 509.1603053435115,
+  "feasible_runs": 3,
+  "errors": [
+   602.2900763358779,
+   596.1832061068702,
+   329.00763358778624
+  ],
+  "seconds": 248.5
+ },
+ {
+  "algorithm": "GBABC",
+  "factor": 100.0,
+  "instance": "scp44",
+  "mean_error_pct": 243.52226720647772,
+  "feasible_runs": 3,
+  "errors": [
+   248.17813765182186,
+   267.4089068825911,
+   214.97975708502025
+  ],
+  "seconds": 201.8
+ },
+ {
+  "algorithm": "GBABC",
+  "factor": 100.0,
+  "instance": "scp45",
+  "mean_error_pct": 250.71614583333334,
+  "feasible_runs": 3,
+  "errors": [
+   261.71875,
+   235.546875,
+   254.8828125
+  ],
+  "seconds": 204.1
+ },
+ {
+  "algorithm": "GBABC",
+  "factor": null,
+  "instance": "scp55",
+  "mean_error_pct": 673.6176935229067,
+  "feasible_runs": 3,
+  "errors": [
+   549.2890995260664,
+   691.4691943127962,
+   780.0947867298578
+  ],
+  "seconds": 384.5
+ },
+ {
+  "algorithm": "SBPSO",
+  "factor": 1000.0,
+  "instance": "scp54",
+  "mean_error_pct": 408.67768595041326,
+  "feasible_runs": 3,
+  "errors": [
+   467.7685950413223,
+   377.68595041322317,
+   380.57851239669424
+  ],
+  "seconds": 821.3
+ },
+ {
+  "algorithm": "GBABC",
+  "factor": null,
+  "instance": "scp54",
+  "mean_error_pct": 589.5316804407713,
+  "feasible_runs": 3,
+  "errors": [
+   573.5537190082645,
+   673.1404958677685,
+   521.900826446281
+  ],
+  "seconds": 515.9
+ },
+ {
+  "algorithm": "GBABC",
+  "factor": 100.0,
+  "instance": "scp64",
+  "mean_error_pct": 509.1603053435115,
+  "feasible_runs": 3,
+  "errors": [
+   602.2900763358779,
+   596.1832061068702,
+   329.00763358778624
+  ],
+  "seconds": 245.4
+ },
+ {
+  "algorithm": "GBABC",
+  "factor": 1000.0,
+  "instance": "scp44",
+  "mean_error_pct": 233.87314439946022,
+  "feasible_runs": 3,
+  "errors": [
+   230.76923076923077,
+   224.2914979757085,
+   246.5587044534413
+  ],
+  "seconds": 239.3
+ },
+ {
+  "algorithm": "GBABC",
+  "factor": 1000.0,
+  "instance": "scp45",
+  "mean_error_pct": 243.75,
+  "feasible_runs": 3,
+  "errors": [
+   239.453125,
+   275.78125,
+   216.015625
+  ],
+  "seconds": 246.9
+ },
+ {
+  "algorithm": "GBABC",
+  "factor": 100.0,
+  "instance": "scp54",
+  "mean_error_pct": 594.3526170798897,
+  "feasible_runs": 3,
+  "errors": [
+   588.0165289256198,
+   673.1404958677685,
+   521.900826446281
+  ],
+  "seconds": 453.1
+ },
+ {
+  "algorithm": "GBABC",
+  "factor": 1000.0,
+  "instance": "scp64",
+  "mean_error_pct": 509.1603053435115,
+  "feasible_runs": 3,
+  "errors": [
+   602.2900763358779,
+   596.1832061068702,
+   329.00763358778624
+  ],
+  "seconds": 198.5
+ },
+ {
+  "algorithm": "GBABC",
+  "factor": 100.0,
+  "instance": "scp55",
+  "mean_error_pct": 642.8120063191153,
+  "feasible_runs": 3,
+  "errors": [
+   599.0521327014218,
+   691.4691943127962,
+   637.914691943128
+  ],
+  "seconds": 535.7
+ },
+ {
+  "algorithm": "GBABC",
+  "factor": 1000.0,
+  "instance": "scp54",
+  "mean_error_pct": 589.5316804407713,
+  "feasible_runs": 3,
+  "errors": [
+   573.5537190082645,
+   673.1404958677685,
+   521.900826446281
+  ],
+  "seconds": 423.2
+ },
+ {
+  "algorithm": "GBABC",
+  "factor": 1000.0,
+  "instance": "scp55",
+  "mean_error_pct": 673.6176935229067,
+  "feasible_runs": 3,
+  "errors": [
+   549.2890995260664,
+   691.4691943127962,
+   780.0947867298578
+  ],
+  "seconds": 444.0
+ },
+ {
+  "algorithm": "SBABC",
+  "factor": 1000.0,
+  "instance": "scpb1",
+  "mean_error_pct": 2261.8357487922704,
+  "feasible_runs": 3,
+  "errors": [
+   2243.478260869565,
+   2278.2608695652175,
+   2263.768115942029
+  ],
+  "seconds": 2183.6
+ },
+ {
+  "algorithm": "BitABC",
+  "factor": null,
+  "instance": "scp44",
+  "mean_error_pct": 385.2226720647773,
+  "feasible_runs": 3,
+  "errors": [
+   386.2348178137652,
+   398.1781376518219,
+   371.2550607287449
+  ],
+  "seconds": 390.8
+ },
+ {
+  "algorithm": "SBPSO",
+  "factor": null,
+  "instance": "scpb1",
+  "mean_error_pct": 856.5217391304346,
+  "feasible_runs": 3,
+  "errors": [
+   723.1884057971015,
+   644.927536231884,
+   1201.4492753623188
+  ],
+  "seconds": 1839.5
+ },
+ {
+  "algorithm": "GBABC",
+  "factor": null,
+  "instance": "scpb1",
+  "mean_error_pct": 1334.7826086956522,
+  "feasible_runs": 3,
+  "errors": [
+   1847.8260869565217,
+   847.8260869565217,
+   1308.695652173913
+  ],
+  "seconds": 990.0
+ },
+ {
+  "algorithm": "BitABC",
+  "factor": null,
+  "instance": "scp45",
+  "mean_error_pct": 362.4348958333333,
+  "feasible_runs": 3,
+  "errors": [
+   340.234375,
+   361.328125,
+   385.7421875
+  ],
+  "seconds": 479.6
+ },
+ {
+  "algorithm": "BitABC",
+  "factor": null,
+  "instance": "scp64",
+  "mean_error_pct": 816.2849872773537,
+  "feasible_runs": 3,
+  "errors": [
+   893.1297709923664,
+   737.4045801526718,
+   818.3206106870228
+  ],
+  "seconds": 437.8
+ },
+ {
+  "algorithm": "BitABC",
+  "factor": 100.0,
+  "instance": "scp44",
+  "mean_error_pct": 389.60863697705804,
+  "feasible_runs": 3,
+  "errors": [
+   386.2348178137652,
+   398.1781376518219,
+   384.41295546558706
+  ],
+  "seconds": 491.6
+ },
+ {
+  "algorithm": "GBABC",
+  "factor": 100.0,
+  "instance": "scpb1",
+  "mean_error_pct": 1422.222222222222,
+  "feasible_runs": 3,
+  "errors": [
+   1785.5072463768115,
+   847.8260869565217,
+   1633.3333333333333
+  ],
+  "seconds": 1032.9
+ },
+ {
+  "algorithm": "SBPSO",
+  "factor": 100.0,
+  "instance": "scpb1",
+  "mean_error_pct": 558.9371980676328,
+  "feasible_runs": 3,
+  "errors": [
+   281.15942028985506,
+   798.5507246376811,
+   597.1014492753624
+  ],
+  "seconds": 1886.1
+ },
+ {
+  "algorithm": "BitABC",
+  "factor": 100.0,
+  "instance": "scp45",
+  "mean_error_pct": 362.4348958333333,
+  "feasible_runs": 3,
+  "errors": [
+   340.234375,
+   361.328125,
+   385.7421875
+  ],
+  "seconds": 482.3
+ },
+ {
+  "algorithm": "BitABC",
+  "factor": 100.0,
+  "instance": "scp64",
+  "mean_error_pct": 847.3282442748091,
+  "feasible_runs": 3,
+  "errors": [
+   818.3206106870228,
+   897.7099236641221,
+   825.9541984732824
+  ],
+  "seconds": 379.9
+ },
+ {
+  "algorithm": "BitABC",
+  "factor": null,
+  "instance": "scp55",
+  "mean_error_pct": 1049.7630331753555,
+  "feasible_runs": 3,
+  "errors": [
+   1024.170616113744,
+   1086.7298578199052,
+   1038.3886255924172
+  ],
+  "seconds": 815.6
+ },
+ {
+  "algorithm": "BitABC",
+  "factor": null,
+  "instance": "scp54",
+  "mean_error_pct": 889.1184573002755,
+  "feasible_runs": 3,
+  "errors": [
+   890.4958677685951,
+   912.396694214876,
+   864.4628099173553
+  ],
+  "seconds": 934.2
+ },
+ {
+  "algorithm": "SBPSO",
+  "factor": 1000.0,
+  "instance": "scpb1",
+  "mean_error_pct": 729.951690821256,
+  "feasible_runs": 3,
+  "errors": [
+   773.9130434782609,
+   510.1449275362319,
+   905.7971014492754
+  ],
+  "seconds": 1842.8
+ },
+ {
+  "algorithm": "BitABC",
+  "factor": 1000.0,
+  "instance": "scp44",
+  "mean_error_pct": 385.2226720647773,
+  "feasible_runs": 3,
+  "errors": [
+   386.2348178137652,
+   398.1781376518219,
+   371.2550607287449
+  ],
+  "seconds": 435.8
+ },
+ {
+  "algorithm": "GBABC",
+  "factor": 1000.0,
+  "instance": "scpb1",
+  "mean_error_pct": 1334.7826086956522,
+  "feasible_runs": 3,
+  "errors": [
+   1847.8260869565217,
+   847.8260869565217,
+   1308.695652173913
+  ],
+  "seconds": 1087.1
+ },
+ {
+  "algorithm": "BitABC",
+  "factor": 1000.0,
+  "instance": "scp64",
+  "mean_error_pct": 816.2849872773537,
+  "feasible_runs": 3,
+  "errors": [
+   893.1297709923664,
+   737.4045801526718,
+   818.3206106870228
+  ],
+  "seconds": 336.2
+ },
+ {
+  "algorithm": "BitABC",
+  "factor": 100.0,
+  "instance": "scp54",
+  "mean_error_pct": 845.4545454545454,
+  "feasible_runs": 3,
+  "errors": [
+   759.5041322314049,
+   912.396694214876,
+   864.4628099173553
+  ],
+  "seconds": 765.0
+ },
+ {
+  "algorithm": "BitABC",
+  "factor": 1000.0,
+  "instance": "scp45",
+  "mean_error_pct": 362.4348958333333,
+  "feasible_runs": 3,
+  "errors": [
+   340.234375,
+   361.328125,
+   385.7421875
+  ],
+  "seconds": 422.1
+ },
+ {
+  "algorithm": "BitABC",
+  "factor": 100.0,
+  "instance": "scp55",
+  "mean_error_pct": 1046.7614533965245,
+  "feasible_runs": 3,
+  "errors": [
+   1024.170616113744,
+   1077.7251184834124,
+   1038.3886255924172
+  ],
+  "seconds": 830.1
+ },
+ {
+  "algorithm": "AMABC",
+  "factor": null,
+  "instance": "scp44",
+  "mean_error_pct": 666.3292847503374,
+  "feasible_runs": 3,
+  "errors": [
+   756.4777327935223,
+   707.085020242915,
+   535.4251012145749
+  ],
+  "seconds": 390.6
+ },
+ {
+  "algorithm": "AMABC",
+  "factor": null,
+  "instance": "scp45",
+  "mean_error_pct": 675.6510416666666,
+  "feasible_runs": 3,
+  "errors": [
+   583.984375,
+   762.109375,
+   680.859375
+  ],
+  "seconds": 340.3
+ },
+ {
+  "algorithm": "AMABC",
+  "factor": null,
+  "instance": "scp64",
+  "mean_error_pct": 384.98727735368954,
+  "feasible_runs": 3,
+  "errors": [
+   380.91603053435114,
+   427.48091603053433,
+   346.5648854961832
+  ],
+  "seconds": 428.9
+ },
+ {
+  "algorithm": "AMABC",
+  "factor": 100.0,
+  "instance": "scp44",
+  "mean_error_pct": null,
+  "feasible_runs": 0,
+  "errors": [],
+  "seconds": 352.7
+ },
+ {
+  "algorithm": "BitABC",
+  "factor": 1000.0,
+  "instance": "scp54",
+  "mean_error_pct": 889.1184573002755,
+  "feasible_runs": 3,
+  "errors": [
+   890.4958677685951,
+   912.396694214876,
+   864.4628099173553
+  ],
+  "seconds": 784.6
+ },
+ {
+  "algorithm": "BitABC",
+  "factor": 1000.0,
+  "instance": "scp55",
+  "mean_error_pct": 1049.7630331753555,
+  "feasible_runs": 3,
+  "errors": [
+   1024.170616113744,
+   1086.7298578199052,
+   1038.3886255924172
+  ],
+  "seconds": 812.2
+ },
+ {
+  "algorithm": "AMABC",
+  "factor": 100.0,
+  "instance": "scp45",
+  "mean_error_pct": null,
+  "feasible_runs": 0,
+  "errors": [],
+  "seconds": 439.4
+ },
+ {
+  "algorithm": "AMABC",
+  "factor": 100.0,
+  "instance": "scp64",
+  "mean_error_pct": null,
+  "feasible_runs": 0,
+  "errors": [],
+  "seconds": 414.5
+ },
+ {
+  "algorithm": "AMABC",
+  "factor": null,
+  "instance": "scp54",
+  "mean_error_pct": 445.59228650137743,
+  "feasible_runs": 3,
+  "errors": [
+   431.8181818181818,
+   452.4793388429752,
+   452.4793388429752
+  ],
+  "seconds": 742.1
+ },
+ {
+  "algorithm": "AMABC",
+  "factor": null,
+  "instance": "scp55",
+  "mean_error_pct": 460.18957345971563,
+  "feasible_runs": 3,
+  "errors": [
+   460.18957345971563,
+   460.18957345971563,
+   460.18957345971563
+  ],
+  "seconds": 739.4
+ },
+ {
+  "algorithm": "AMABC",
+  "factor": 1000.0,
+  "instance": "scp44",
+  "mean_error_pct": null,
+  "feasible_runs": 0,
+  "errors": [],
+  "seconds": 312.4
+ },
+ {
+  "algorithm": "AMABC",
+  "factor": 1000.0,
+  "instance": "scp45",
+  "mean_error_pct": 466.796875,
+  "feasible_runs": 1,
+  "errors": [
+   466.796875
+  ],
+  "seconds": 345.2
+ },
+ {
+  "algorithm": "AMABC",
+  "factor": 100.0,
+  "instance": "scp54",
+  "mean_error_pct": null,
+  "feasible_runs": 0,
+  "errors": [],
+  "seconds": 864.5
+ },
+ {
+  "algorithm": "AMABC",
+  "factor": 1000.0,
+  "instance": "scp64",
+  "mean_error_pct": 421.882951653944,
+  "feasible_runs": 3,
+  "errors": [
+   503.8167938931298,
+   370.2290076335878,
+   391.60305343511453
+  ],
+  "seconds": 398.7
+ },
+ {
+  "algorithm": "BitABC",
+  "factor": null,
+  "instance": "scpb1",
+  "mean_error_pct": 1966.183574879227,
+  "feasible_runs": 3,
+  "errors": [
+   1834.7826086956522,
+   2102.8985507246375,
+   1960.8695652173913
+  ],
+  "seconds": 1924.6
+ },
+ {
+  "algorithm": "ABABC",
+  "factor": null,
+  "instance": "scp45",
+  "mean_error_pct": 449.9348958333333,
+  "feasible_runs": 3,
+  "errors": [
+   426.953125,
+   450.9765625,
+   471.875
+  ],
+  "seconds": 382.7
+ },
+ {
+  "algorithm": "AMABC",
+  "factor": 100.0,
+  "instance": "scp55",
+  "mean_error_pct": null,
+  "feasible_runs": 0,
+  "errors": [],
+  "seconds": 898.3
+ },
+ {
+  "algorithm": "ABABC",
+  "factor": null,
+  "instance": "scp44",
+  "mean_error_pct": 452.6990553306343,
+  "feasible_runs": 3,
+  "errors": [
+   493.52226720647775,
+   447.36842105263156,
+   417.20647773279353
+  ],
+  "seconds": 460.4
+ },
+ {
+  "algorithm": "AMABC",
+  "factor": 1000.0,
+  "instance": "scp55",
+  "mean_error_pct": 460.0315955766193,
+  "feasible_runs": 3,
+  "errors": [
+   460.18957345971563,
+   459.7156398104265,
+   460.18957345971563
+  ],
+  "seconds": 732.4
+ },
+ {
+  "algorithm": "BitABC",
+  "factor": 100.0,
+  "instance": "scpb1",
+  "mean_error_pct": 2017.874396135266,
+  "feasible_runs": 3,
+  "errors": [
+   1834.7826086956522,
+   2113.0434782608695,
+   2105.7971014492755
+  ],
+  "seconds": 1894.4
+ },
+ {
+  "algorithm": "AMABC",
+  "factor": 1000.0,
+  "instance": "scp54",
+  "mean_error_pct": 432.36914600550966,
+  "feasible_runs": 3,
+  "errors": [
+   450.41322314049586,
+   417.7685950413223,
+   428.92561983471074
+  ],
+  "seconds": 776.1
+ },
+ {
+  "algorithm": "ABABC",
+  "factor": null,
+  "instance": "scp64",
+  "mean_error_pct": 998.9821882951654,
+  "feasible_runs": 3,
+  "errors": [
+   1004.5801526717557,
+   1030.5343511450383,
+   961.8320610687023
+  ],
+  "seconds": 467.6
+ },
+ {
+  "algorithm": "ABABC",
+  "factor": 100.0,
+  "instance": "scp44",
+  "mean_error_pct": 451.14709851551953,
+  "feasible_runs": 3,
+  "errors": [
+   493.52226720647775,
+   447.36842105263156,
+   412.5506072874494
+  ],
+  "seconds": 391.4
+ },
+ {
+  "algorithm": "BitABC",
+  "factor": 1000.0,
+  "instance": "scpb1",
+  "mean_error_pct": 1966.183574879227,
+  "feasible_runs": 3,
+  "errors": [
+   1834.7826086956522,
+   2102.8985507246375,
+   1960.8695652173913
+  ],
+  "seconds": 1758.5
+ },
+ {
+  "algorithm": "ABABC",
+  "factor": null,
+  "instance": "scp54",
+  "mean_error_pct": 1005.6473829201101,
+  "feasible_runs": 3,
+  "errors": [
+   997.5206611570248,
+   1013.6363636363636,
+   1005.7851239669421
+  ],
+  "seconds": 764.9
+ },
+ {
+  "algorithm": "ABABC",
+  "factor": 100.0,
+  "instance": "scp45",
+  "mean_error_pct": 447.65625,
+  "feasible_runs": 3,
+  "errors": [
+   426.953125,
+   444.140625,
+   471.875
+  ],
+  "seconds": 463.9
+ },
+ {
+  "algorithm": "ABABC",
+  "factor": 1000.0,
+  "instance": "scp44",
+  "mean_error_pct": 452.6990553306343,
+  "feasible_runs": 3,
+  "errors": [
+   493.52226720647775,
+   447.36842105263156,
+   417.20647773279353
+  ],
+  "seconds": 212.3
+ },
+ {
+  "algorithm": "ABABC",
+  "factor": null,
+  "instance": "scp55",
+  "mean_error_pct": 1191.4691943127962,
+  "feasible_runs": 3,
+  "errors": [
+   1180.0947867298578,
+   1256.8720379146919,
+   1137.4407582938388
+  ],
+  "seconds": 702.3
+ },
+ {
+  "algorithm": "ABABC",
+  "factor": 100.0,
+  "instance": "scp64",
+  "mean_error_pct": 993.6386768447837,
+  "feasible_runs": 3,
+  "errors": [
+   1020.6106870229007,
+   1023.6641221374045,
+   936.6412213740458
+  ],
+  "seconds": 431.4
+ },
+ {
+  "algorithm": "ABABC",
+  "factor": 100.0,
+  "instance": "scp54",
+  "mean_error_pct": 1008.9531680440772,
+  "feasible_runs": 3,
+  "errors": [
+   997.5206611570248,
+   1013.6363636363636,
+   1015.702479338843
+  ],
+  "seconds": 664.3
+ },
+ {
+  "algorithm": "ABABC",
+  "factor": 1000.0,
+  "instance": "scp64",
+  "mean_error_pct": 998.9821882951654,
+  "feasible_runs": 3,
+  "errors": [
+   1004.5801526717557,
+   1030.5343511450383,
+   961.8320610687023
+  ],
+  "seconds": 246.2
+ },
+ {
+  "algorithm": "AMABC",
+  "factor": null,
+  "instance": "scpb1",
+  "mean_error_pct": 246.8599033816425,
+  "feasible_runs": 3,
+  "errors": [
+   249.2753623188406,
+   252.17391304347825,
+   239.1304347826087
+  ],
+  "seconds": 1781.5
+ },
+ {
+  "algorithm": "ABABC",
+  "factor": 1000.0,
+  "instance": "scp45",
+  "mean_error_pct": 449.9348958333333,
+  "feasible_runs": 3,
+  "errors": [
+   426.953125,
+   450.9765625,
+   471.875
+  ],
+  "seconds": 363.9
+ },
+ {
+  "algorithm": "ABABC",
+  "factor": 100.0,
+  "instance": "scp55",
+  "mean_error_pct": 1192.1011058451818,
+  "feasible_runs": 3,
+  "errors": [
+   1182.4644549763034,
+   1256.398104265403,
+   1137.4407582938388
+  ],
+  "seconds": 624.9
+ },
+ {
+  "algorithm": "ABABC",
+  "factor": 1000.0,
+  "instance": "scp54",
+  "mean_error_pct": 1005.6473829201101,
+  "feasible_runs": 3,
+  "errors": [
+   997.5206611570248,
+   1013.6363636363636,
+   1005.7851239669421
+  ],
+  "seconds": 392.6
+ },
+ {
+  "algorithm": "ABABC",
+  "factor": 1000.0,
+  "instance": "scp55",
+  "mean_error_pct": 1191.4691943127962,
+  "feasible_runs": 3,
+  "errors": [
+   1180.0947867298578,
+   1256.8720379146919,
+   1137.4407582938388
+  ],
+  "seconds": 364.0
+ },
+ {
+  "algorithm": "AMABC",
+  "factor": 100.0,
+  "instance": "scpb1",
+  "mean_error_pct": 198.06763285024155,
+  "feasible_runs": 3,
+  "errors": [
+   192.7536231884058,
+   201.44927536231884,
+   200.0
+  ],
+  "seconds": 1626.1
+ },
+ {
+  "algorithm": "AMABC",
+  "factor": 1000.0,
+  "instance": "scpb1",
+  "mean_error_pct": 222.70531400966183,
+  "feasible_runs": 3,
+  "errors": [
+   231.8840579710145,
+   169.56521739130434,
+   266.6666666666667
+  ],
+  "seconds": 1381.7
+ },
+ {
+  "algorithm": "ABABC",
+  "factor": null,
+  "instance": "scpb1",
+  "mean_error_pct": 2349.2753623188405,
+  "feasible_runs": 3,
+  "errors": [
+   2385.5072463768115,
+   2289.855072463768,
+   2372.463768115942
+  ],
+  "seconds": 1085.1
+ },
+ {
+  "algorithm": "ABABC",
+  "factor": 100.0,
+  "instance": "scpb1",
+  "mean_error_pct": 2385.5072463768115,
+  "feasible_runs": 3,
+  "errors": [
+   2385.5072463768115,
+   2289.855072463768,
+   2481.159420289855
+  ],
+  "seconds": 874.3
+ },
+ {
+  "algorithm": "ABABC",
+  "factor": 1000.0,
+  "instance": "scpb1",
+  "mean_error_pct": 2349.2753623188405,
+  "feasible_runs": 3,
+  "errors": [
+   2385.5072463768115,
+   2289.855072463768,
+   2372.463768115942
+  ],
+  "seconds": 598.2
+ }
+]

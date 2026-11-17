@@ -1,0 +1,70 @@
+{
+  "SBABC": {
+    "beta1": 0.6596875,
+    "beta2": 1.96875,
+    "beta3": 0.1875,
+    "k": 7,
+    "limit": 102,
+    "candidate_set": "single",
+    "scout_bee_phase_version": 1,
+    "topology": "ring",
+    "neighborhood_radius": 1,
+    "num_food_sources": 25,
+    "distort_operator_version": 5
+  },
+  "SBPSO": {
+    "c1": 0.875,
+    "c2": 0.875,
+    "c3": 0.375,
+    "c4": 1.125,
+    "k": 14,
+    "topology": "ring",
+    "neighborhood_radius": 2,
+    "num_particles": 25
+  },
+  "GBABC": {
+    "limit": 168,
+    "threshold": 7,
+    "topology": "star",
+    "neighborhood_radius": 1,
+    "num_food_sources": 25,
+    "best_parent": "gbest"
+  },
+  "BitABC": {
+    "limit": 30,
+    "r": 0.1,
+    "topology": "star",
+    "neighborhood_radius": 1,
+    "num_food_sources": 25
+  },
+  "AMABC": {
+    "limit": 208,
+    "topology": "star",
+    "neighborhood_radius": 1,
+    "num_food_sources": 25
+  },
+  "CBGA": {
+    "population_size": 163,
+    "mutation_bits": 2
+  },
+  "ABABC": {
+    "credit_alpha": 0.42500000000000004,
+    "pursuit_beta": 0.8250000000000001,
+    "p_min": 0.0634375,
+    "reward_window": 9,
+    "reward_type": "average",
+    "num_food_sources": 40,
+    "schedule_iterations": 1250
+  },
+  "CETS": {
+    "t": 7,
+    "p2": 7,
+    "k_max": 2,
+    "p1": 3
+  },
+  "BGWO": {
+    "num_wolves": 31,
+    "transform": "vshape",
+    "schedule_iterations": 5000
+  }
+}

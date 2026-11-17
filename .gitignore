@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+logs/
+# the run database is archived on Zenodo (see README); place it here to rerun the scripts
+results/results.sqlite
+results/*.sqlite-*
+results/figures/

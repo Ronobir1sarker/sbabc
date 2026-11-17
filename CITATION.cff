@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software or its results, please cite the paper below."
+title: "SBABC: set-based artificial bee colony, experiments and results"
+type: software
+license: MIT
+authors:
+  - family-names: Sarker
+    given-names: Ronobir Chandra
+  - family-names: Bansal
+    given-names: Jagdish Chand
+preferred-citation:
+  type: article
+  title: "A Generic Set Based Artificial Bee Colony Algorithm for Combinatorial Optimization"
+  authors:
+    - family-names: Sarker
+      given-names: Ronobir Chandra
+    - family-names: Bansal
+      given-names: Jagdish Chand
+  journal: "Swarm and Evolutionary Computation"
+  status: submitted
+  year: 2026

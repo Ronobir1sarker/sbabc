@@ -1,0 +1,14 @@
+# Pinned environment for the SBABC experiments.
+#
+# Exact pins, not minimums: per-run seeding makes results bit-identical
+# ONLY when every machine runs the same numpy/scipy — the results database
+# records these versions per experiment (environments table) and refuses to
+# merge shards produced under different ones.
+numpy==2.3.1
+scipy==1.16.0
+pandas==2.3.1
+joblib==1.5.1
+scikit-learn==1.8.0
+
+# test runner (the suite also runs dependency-free via `python tests/test_smoke.py`)
+pytest

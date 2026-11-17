@@ -58,6 +58,7 @@ Download it, decompress it to `results/results.sqlite`
 | Section 8.5, one-at-a-time check | `paper-experiments/sensitivity_oat_check.py` |
 | Figures 2 and 3 | `paper-experiments/fig_convergence.py`, `fig_walltime.py` |
 | Statistics behind every significance mark | `paper-experiments/significance_export.py` |
+| Supplementary material (all its tables) | `paper-experiments/supplement.py` |
 
 The files already in `results/` need no database:
 
